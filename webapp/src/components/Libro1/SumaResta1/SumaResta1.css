@@ -1,0 +1,50 @@
+.flexbox {
+    display: flex;
+    justify-content: space-between;
+
+    width: 200px;
+    max-width: 768px;
+    height: 23vh;
+
+    margin: 0 auto;
+    padding: 15px;
+    align-content: center;
+}
+
+.flexboxB {
+    display: flex;
+    justify-content: space-between;
+
+    
+    max-width: 768px;
+    height: 23vh;
+
+    margin: 0 auto;
+    padding: 15px;
+    align-content: center;
+}
+
+.flexbox .board {
+    display: flex;
+    flex-direction: column;
+
+    width: 75%;
+    max-width: 600px;
+
+    background-color: #b6a8a852;
+    padding: 10px;
+
+    border-radius: 5px;
+
+    height: 86px;
+    align-self: center;
+    margin: 10px;
+}
+
+.button{
+    background: green;
+    font-size: 30px;
+    color: white;
+    border-color: white;
+    border-radius: 5px;
+}

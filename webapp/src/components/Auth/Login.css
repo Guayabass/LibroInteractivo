@@ -1,0 +1,8 @@
+.login-form{
+    max-width: 30vw;
+    min-height: 60vh;
+}
+
+.login-message .h4{
+    font-size: 1rem;
+}
